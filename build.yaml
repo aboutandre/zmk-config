@@ -13,4 +13,5 @@
 #
 ---
 include:
-  - board: technikable
+  - board: proton_c
+    shield: boardsource5x12
