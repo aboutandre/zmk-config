@@ -13,4 +13,4 @@
 #
 ---
 include:
-  - board: s40nc
+  - board: planck_rev6
