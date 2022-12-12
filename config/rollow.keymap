@@ -1,0 +1,2 @@
+#define ENCODERS
+#include "3x6.keymap"
